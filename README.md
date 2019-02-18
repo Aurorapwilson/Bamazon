@@ -35,8 +35,10 @@ Welcome to Bamazon, a CLI-app that utilizes Node.js and mysql. It is an Amazon-l
    * stock_quantity (how much of the product is available in stores)
 
 4. Populate this database with around 10 different products. (i.e. Insert "mock" data rows into this database and table).
+![](screenshots/ScreenShot2019-02-12at11.51.40PM.png)
 
 5. Then create a Node application called `bamazonCustomer.js`. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
+![](screenshots/ScreenShot2019-02-16at1.16.44AM.png)
 
 6. The app should then prompt users with two messages.
 
