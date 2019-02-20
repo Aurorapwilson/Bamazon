@@ -45,6 +45,9 @@ Welcome to Bamazon, a CLI-app that utilizes Node.js and mysql. It is an Amazon-l
    * The first should ask them the ID of the product they would like to buy.
    * The second message should ask how many units of the product they would like to buy.
 
+![](https://media.giphy.com/media/8mqygtxbkA6LCfZNMn/giphy.gif)
+
+
 7. Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
 
    * If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
@@ -52,7 +55,7 @@ Welcome to Bamazon, a CLI-app that utilizes Node.js and mysql. It is an Amazon-l
 8. However, if your store _does_ have enough of the product, you should fulfill the customer's order.
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
-
+![](https://media.giphy.com/media/MRq7AwkWw0dPflOO69/giphy.gif)
 - - -
 
 * If this activity took you between 8-10 hours, then you've put enough time into this assignment. Feel free to stop here -- unless you want to take on the next challenge.
